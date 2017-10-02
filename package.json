@@ -1,0 +1,21 @@
+{
+  "name": "NYTimes",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.15.2",
+    "babel-core": "^6.18.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6",
+    "morgan": "^1.7.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
