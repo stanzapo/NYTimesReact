@@ -1,6 +1,6 @@
 var axios = require('axios');
 
-var APIKey = "b9f91d369ff59547cd47b931d8cbc56b:0:74623931";
+var APIKey = "b8f91c369ff59547cd47b931d8cbd45c:0:74653931";
 
 var helpers = {
 	runQuery: function(term, start, end){
